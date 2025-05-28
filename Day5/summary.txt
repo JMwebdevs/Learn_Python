@@ -1,0 +1,23 @@
+               What i Learned | PYTHON | Day - 5
+
+1. Operators
+2. Buit-in Functions Using Import math
+    I.   Round Functions
+        - result = round(x)
+
+    II.  Absolute Value
+        - result = abs(x)
+
+    III. Pow Function
+        - result = pow(x, 2)
+
+    IV.  Maximum Value
+        - result = max(x, y, z)
+
+    V.   Minimum Value
+        - result = min(x, y, z)
+
+Exercise: 
+    1. Radius % Circumferences
+    2. Area of a Circle
+    3. The Hypothenuse of a rigth triangle

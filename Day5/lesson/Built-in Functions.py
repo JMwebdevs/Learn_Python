@@ -1,12 +1,12 @@
 x = 87.657
-y = 4
+y = -4
 z = 5
 
 #* round function
 # result = round(x)
 
 #* absolute value
-# result = abs(y) 
+result = abs(y) 
 
 #* pow function
 # result = pow(2, 6)
@@ -17,5 +17,5 @@ z = 5
 
 #* minimum value
 # pinaka mababang values
-result = min(x, y, z)
+# result = min(x, y, z)
 print(result)
