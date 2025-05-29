@@ -1,0 +1,10 @@
+            What i Learned | Day - 6 | Conditions and If statements
+1. If
+2. elif
+3. else
+    Projects: 
+            - legal or minor
+            - yes or no
+            - blank input
+            - Boolean statements (Online or Offline)
+            - Username and Password login
