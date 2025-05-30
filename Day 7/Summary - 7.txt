@@ -1,0 +1,5 @@
+Today i build a simple calculator using
+    1.if
+    2.elif
+    3.else
+    4.operators
