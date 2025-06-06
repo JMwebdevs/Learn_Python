@@ -1,4 +1,4 @@
 # Day 1 learning Python
-print("John mark lapenid")
+print("JMwebdevs")
 print('I like onigiri!')
 
