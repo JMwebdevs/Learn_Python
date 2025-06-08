@@ -39,6 +39,10 @@ print(result2)
 
 # Access level
 print("Access level: ")
-user_role = "guest"
+
+user_role = input("Enter your role: ")
 accessLevel = "7. Full access\n" if user_role == "guest" else "7. Limited access\n"
 print(accessLevel)
+
+
+

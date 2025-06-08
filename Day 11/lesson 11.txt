@@ -1,0 +1,17 @@
+           
+            Day - 11 | String Methods
+    1. len() 
+    2. .find()
+    3. .rfind()
+    4. .capitalize()
+    5. .upper()
+    6. .lower()
+    7. .isdigit()
+    8. .isalpha()
+    9. .count()
+    10. replace("", "")
+
+    ! Exercise: 
+    - username is no more 12 characters
+    - username must not contain spaces
+    - username must not contain digits
