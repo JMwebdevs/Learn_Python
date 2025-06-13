@@ -1,0 +1,12 @@
+        Day - 12 | Python
+  Target Lesson: indexing [Start:End]
+    1. [0] 
+    2. [0:]
+    3. [:0]
+    4. [0:5]
+    5. [-1]
+    6. [::2]  
+  
+  Exercise: 
+    - Last 4 digits
+    - Reverse String
