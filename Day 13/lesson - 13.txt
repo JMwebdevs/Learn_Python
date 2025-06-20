@@ -1,0 +1,12 @@
+
+                      
+                       Day - 13 | Python Email Slicer
+
+Problem: Extract Email Parts
+    Write a program that:
+    1. Takes an email as input
+    2. Extracts the username (before @) and domain (after @)
+    3. if the username is longer than 10 characters, print: Your Username is too long
+    4. Otherwise, print: Your Username is {username} and your domain is {domain}
+
+
